@@ -1,0 +1,15 @@
+[10-Jun-2014 18:04:56 PRC] PHP Fatal error:  Class 'Debug' not found in D:\wamp\www\ahphp\system\app.php on line 114
+[10-Jun-2014 18:04:56 PRC] PHP Stack trace:
+[10-Jun-2014 18:04:56 PRC] PHP   1. {main}() D:\wamp\www\ahphp\index.php:0
+[10-Jun-2014 18:04:56 PRC] PHP   2. Application::run() D:\wamp\www\ahphp\index.php:33
+[10-Jun-2014 18:04:56 PRC] PHP   3. Application::autoload() D:\wamp\www\ahphp\system\app.php:29
+[11-Jun-2014 11:09:53 PRC] PHP Fatal error:  Class 'Debug' not found in D:\wamp\www\ahphp\system\app.php on line 115
+[11-Jun-2014 11:09:53 PRC] PHP Stack trace:
+[11-Jun-2014 11:09:53 PRC] PHP   1. {main}() D:\wamp\www\ahphp\index.php:0
+[11-Jun-2014 11:09:53 PRC] PHP   2. Application::run() D:\wamp\www\ahphp\index.php:33
+[11-Jun-2014 11:09:53 PRC] PHP   3. Application::autoload() D:\wamp\www\ahphp\system\app.php:30
+[11-Jun-2014 11:09:54 PRC] PHP Fatal error:  Class 'Debug' not found in D:\wamp\www\ahphp\system\app.php on line 115
+[11-Jun-2014 11:09:54 PRC] PHP Stack trace:
+[11-Jun-2014 11:09:54 PRC] PHP   1. {main}() D:\wamp\www\ahphp\index.php:0
+[11-Jun-2014 11:09:54 PRC] PHP   2. Application::run() D:\wamp\www\ahphp\index.php:33
+[11-Jun-2014 11:09:54 PRC] PHP   3. Application::autoload() D:\wamp\www\ahphp\system\app.php:30

@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,form,div,span,ul,ol,li,p,pre,dl,dt,dd,h1,h2,h3,h4,h5,h6,em,a,fieldset,legend,address,label,textarea,select,input,figure,table,th,td,b,i{margin:0;padding:0;font-size: 12px;font-family:"微软雅黑";}
+fieldset,img{border:0;}
+ul,li{list-style:none;}
+em,i{font-style:normal;}
+table{border-collapse:separate;border-spacing:0;}
+img{border:0px;}
+a{text-decoration:none;}
+a:link{ color:#993397}
+a:hover{ text-decoration:underline;}
+a:focus,input,button,select,textarea{outline:none;}
+h1,h2,h3,h4,h5,h6{ font-size:100%; font-variant: normal;}
+input,select,img{ vertical-align:middle;}
+legend{ display:none;}
+textarea{resize:none;}
+.mar-t20{margin:20px auto;}
+.currse{cursor:pointer;}
+.fl{ float: left;}
+.fr{float: right;}
+.br{border-right:1px solid #DDE2E4;}
+.bt{border-top:1px solid #DDE2E4;}
+.bl{border-left:1px solid #DDE2E4;}
+.bb{border-bottom:1px solid #DDE2E4;}
+.clear{ clear:both;}
+.clearfix{zoom:1;}
+.clearfix:after{clear:both; content:"";display:block;height:0;line-height:0;visibility:hidden;}
+.martop20{margin-top:20px;}

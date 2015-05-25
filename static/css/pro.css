@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.shop{background-color: #FAD9EB;width: 980px;margin: 0 auto;}
+.shop_l{width:235px;padding-left:25px;background-color: #fff;padding-bottom:20px;}
+.shop_l ul{padding:10px 30px 0 30px;line-height:20px;}
+.shoplist{line-height:40px;background: url(../images/cate_c.jpg) left center no-repeat;font-size:14px;font-weight:bold;padding-left:20px;border-top:1px solid #C5C3C4;border-bottom:1px solid #C5C3C4;margin-top: 10px;cursor:pointer;}
+.shop_l ul li a{color:#7F7F7F;letter-spacing:2px;}
+.header{line-height:20px;text-align:left;margin:8px 0px 0px 20px;}
+.shoplistcur{line-height:40px;background: url(../images/cate.jpg) left center no-repeat;color:#EF7A70;padding-left:20px;border-top:1px solid #C5C3C4;border-bottom:1px solid #C5C3C4;margin-top: 10px;cursor:pointer;}
+
+.shop_r{width:718px;border:1px solid #CCCCCC;color:#B2B2B2;}
+.shop_r .font_red{color:#DC62C4;}
+.shop_r .font_red a{color:#DC62C4;}
+.shop_r p.datu{width: 100%;}
+
+/* 参数条件 */
+.caizhi{width:700px;padding:8px 20px;background-color:#fff;}
+.caizhi span{padding:5px; margin-left:5px;text-align:center;}
+.caizhi span a{color:#7F7F7F;}
+.types{height:30px;padding:3px 10px 0px 0px;background-color:#fff;border-top: 1px solid #CCCCCC}
+.types .ks{padding:3px 25px;border:1px solid #CCCCCC;border-left:none;color:#908D8D;}
+.types .ks a{color:#7F7F7F;}
+.orders{margin-left:20px;}
+.orders img{margin-left:5px;}
+.limit{margin-left:20px;color:#7F7F7F;}
+.limit code{padding:3px;margin-left:5px;}
+.limit code.surs{background-color: #DA5EAA;color: #fff}
+/* 产品排版 */
+.shop_r ul{width: 100%; line-height:20px;}
+.shop_r ul li{float:left;padding: 5px;background-color:#fff}
+.shop_r ul li p.prices{color:#572951;font-weight: bold;padding-left:15px;margin-top:5px;}
+.shop_r ul li p.ptitle{color:#333333;padding-left:15px;}
+.shop_r ul li p.pdetail{color:#B2A3AC;font-size:10px;padding-left:15px;}
+/* 鼠标经过*/
+.shop_r ul li:hover{background-color:#F8DFF5;cursor:pointer;}
+.shop_r p.ppage{float:right;height:30px;line-height:30px;}
+.shop_r p.ppage span{height:20px;width:20px;line-height:20px;display:inline-block;margin:3px; text-align: center;color:#C0C0C0;background-color:#FFFFFF;}
+.shop_r p.ppage span.pcur{background-color:#E66EA3;color:#FFFFFF}
